@@ -1,0 +1,7 @@
+{
+  "name": "!juizo",
+  "description": "Um jogo social de percepção e verdades profundas. Descubra quem realmente conhece o grupo através de desafios psicológicos movidos por inteligência coletiva.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
